@@ -3,12 +3,10 @@
 #Non Coding Questions
 #1. Differences between list, tuple & set
 #2. What is Lambda Function
-#3. 
+#3. What is slicing in string
 
 #Basic Python
-
+#1. Reverse a list in python
 
 #File Operations
-
-
-#Using Packages
+#1. Count the number of words in a text file

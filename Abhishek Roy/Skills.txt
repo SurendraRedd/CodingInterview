@@ -1,1 +1,0 @@
-AWS EC2, S3, SNS,DYNAMO DB, PySpark, Python, Spark core, Spark Sql. 
